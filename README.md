@@ -1,5 +1,5 @@
 # Does a Top NHL Player's Performance in One Season Correlate to Their Production in the Next?
-In the folder 'analysis' is found the file 'analysis1.ipynb'.  This is the main file to be ran to see the work done. 
+## In the folder 'analysis' is found the file 'analysis1.ipynb'.  This is the main file to be ran to see the work done. 
 
 When given the opportunity, for a school assignment in my degree, I used hockey datasets for the 2017/18 and the 2018/19 point summaries to analyse whether performance between consecutive hockey seasons for 200 players who ranked in the top 300 in points for both seasons was correlated. 
 
